@@ -28,8 +28,6 @@
 
 ### This 3-D scatter plot was obtained using the PCA algorithm to reduce the crytocurrencies dimensions to three principal components.
 
-### **2D-Scatter plot with clusters**
+### **2D-Scatter plot with TotalCoinMined vs TotalCoinSupply**
 
 ![Crypto](Resources/Hvplot-Scatter.png)
-
-### This 2-D scatter plot was obtained using the PCA algorithm to reduce the crytocurrencies dimensions to two principal components.
